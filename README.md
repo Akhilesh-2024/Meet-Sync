@@ -68,8 +68,8 @@ MongoDB and Redis can run through Docker.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd meetsync
+git clone https://github.com/Akhilesh-2024/Meet-Sync.git
+cd MeetSync
 ```
 
 ### 2. Start MongoDB and Redis
